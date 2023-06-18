@@ -1,3 +1,3 @@
 export function toCamelCase(text: string) {
-	return null;
+	return '';
 }
